@@ -10097,8 +10097,7 @@ public enum Emoji: CaseIterable {
         case .wheel_of_dharma:
             return ["\u{2638}\u{fe0f}"]
         case .frowning2:
-            return ["\u{2639}",
-                    "\u{2639}\u{fe0f}"]
+            return ["\u{2639}\u{fe0f}"]//["\u{2639}", //"\u{2639}\u{fe0f}"]
         case .relaxed:
             return ["\u{263a}",
                     "\u{263a}\u{fe0f}"]
