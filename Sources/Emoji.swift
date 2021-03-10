@@ -11760,7 +11760,6 @@ public enum Emoji: CaseIterable {
             return ["teapot"]
         default:
             fatalError()
->>>>>>> 6d5149c59ed7eafbcd71f91fd6f72bfec40a6e22
         }
     }
 
